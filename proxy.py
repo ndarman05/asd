@@ -5,7 +5,7 @@ import sys
 import os
 
 def main():
-    username="userproxy"
+    username="iio"
     try:
         password_proxy =raw_input("type your password here: ")
     except:
